@@ -4,8 +4,8 @@ const userName = prompt('Type your name: ');
 const lastName = prompt('Type your last name: ');
 const weight = prompt('Type your weight: ')
 const height = prompt('Type your height: ')
-const data = prompt('type your date of hospitalization: ')
-const diabetic = prompt('your is diabetic? ')
+const data = prompt('Type your date of hospitalization: ')
+const diabetic = prompt('Your is diabetic? ')
 
 console.log(`\nYour name: ${userName}`);
 console.log(`Your last name: ${lastName}`);
