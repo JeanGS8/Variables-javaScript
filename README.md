@@ -11,4 +11,4 @@ altura: Number
 
 dataDeInternacao: String
 
-diabético: String
+diabético: Boolean
